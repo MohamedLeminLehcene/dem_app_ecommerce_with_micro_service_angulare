@@ -19,6 +19,9 @@
 <li></li>
 <img src="./img/img05.png"/>
 <hr/>
+<li></li>
+<img src="./img/img06.png"/>
+<hr/>
 </ul>
 
 
